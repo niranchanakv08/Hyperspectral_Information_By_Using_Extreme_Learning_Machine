@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Hyperspectral_Img_Classification">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Hyperspectral Image  Classification/dist/Hyperspectral_Img_Classification.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
